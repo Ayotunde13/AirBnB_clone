@@ -1,5 +1,17 @@
-![image](https://user-images.githubusercontent.com/106966069/204176490-ef4798c6-f5f0-4595-8850-c43dad62366b.png)
-Description :alx:
-ALXBnB is a complete web application, integrating database storage, a back-end API, and front-end interfacing in a clone of AirBnB.
+<p align="center">
+  <img src="https://github.com/bdbaraban/AirBnB_clone/blob/master/assets/hbnb_logo.png" alt="HolbertonBnB logo">
+</p>
+
+<h1 align="center">AirBnB</h1>
+<p align="center">An AirBnB clone.</p>
+
+---
+## Description :alx:
+
+ALXBnB is a complete web application, integrating database storage, 
+a back-end API, and front-end interfacing in a clone of AirBnB.
 
 The project currently only implements the back-end console.
+
+## Authors:
+* Ogunsote Emmanuel Ayotunde <[Ayotunde13](https://github.com/Ayotunde13)
